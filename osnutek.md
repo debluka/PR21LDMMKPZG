@@ -6,7 +6,7 @@
 
 # 1. Izbrana tema
 Naša izbrana tema so kazniva dejanja v Sloveniji. Zanima nas povezava med kaznivi dejanji in kje so se najpogosteje dogajala, katere vrste so bile najpogostejše nasplošno
-in ter ločeno po regijah itd.
+in ločene po regijah itd.
 
 # 2. Cilji
 Z analizo podatkov o kaznivih dejanjih, bi se lahko pristojni varnostni organi bolj učinkovito pripravili na analizo ter samo preprečevanje oz. zmanjšano pogosto kaznivih
