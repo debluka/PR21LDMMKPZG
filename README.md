@@ -1,2 +1,2 @@
-# PR21LDMMKP
+# PR21LDMMKPZG
 Podatkovno rudarjenje - Luka Debevec, Matej Medved, Klavdij Puntar, Žan Gartner
